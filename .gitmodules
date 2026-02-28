@@ -1,3 +1,6 @@
 [submodule "src/ICGui"]
 	path = src/ICGui
 	url = ../../nerficg-project/icgui
+[submodule "src/Methods/FasterGS"]
+	path = src/Methods/FasterGS
+	url = https://github.com/nerficg-project/faster-gaussian-splatting
